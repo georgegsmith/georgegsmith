@@ -46,7 +46,7 @@ To check that all the Localstack services are running go here
 
 Localhost also has a UI which looks like this 
 
-![title](/images/localstack.PNG)
+![title](localstack.PNG)
 
 
 
